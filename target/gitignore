@@ -1,0 +1,8 @@
+#maven target folder   
+/terget/
+
+# target 
+*.log
+
+# Docker
+docker.compose.override.yml
